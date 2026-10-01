@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Packed extension builds and signing keys
+*.crx
+*.pem
+*.zip
+
+# Node (if tooling is added later)
+node_modules/
+
+# Local Claude Code settings
+.claude/settings.local.json

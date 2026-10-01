@@ -1,0 +1,3 @@
+html.hide-comment-rows tr.diff-line-row:has(td.diff-text-cell code > div > .pl-c:only-child) {
+  display: none !important;
+}
